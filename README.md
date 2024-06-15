@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Loan-Default-Predictions-Project
 Predictions on whether a loan applicant might deafault
 
 Introduction
